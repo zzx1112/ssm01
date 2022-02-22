@@ -2,7 +2,6 @@ package com.zzx.mapper;
 
 import com.zzx.pojo.User;
 import org.springframework.stereotype.Repository;
-import org.springframework.web.bind.annotation.PathVariable;
 
 import java.util.List;
 
